@@ -20,7 +20,7 @@ This dashboard provides a detailed view of business performance, including:
    
 ![dashborad](https://github.com/MDAsif-bit01/power-bi-Project-/blob/main/image/power%20bi%201.jpg)
 
-# Superstore Data Analysis Tasks
+# Superstore Tasks
 - Create a KPI card to display the total sales and use a slicer to filter the results by region. Additionally, visualize sales trends over time with a line chart segmented by region.
 
 ![dashborad](https://github.com/MDAsif-bit01/power-bi-Project-/blob/main/image/power%20bi%202_page-0001.jpg)
@@ -56,6 +56,7 @@ This dashboard provides a detailed view of business performance, including:
 - Develop a DAX measure to calculate year-over-year sales growth using SAMEPERIODLASTYEAR(Order Date) and visualize it with a KPI and a year-wise line chart.
 
 ![dashborad](https://github.com/MDAsif-bit01/power-bi-Project-/blob/main/image/power%20bi%202_page-0009.jpg) 
+
 
 
 
